@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MVVM Android</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lbl_login">Login</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirm_password">Confirm Password</string>
+    <string name="lbl_mvvm">MVVM</string>
+    <string name="lbl_register"> Register</string>
+    <string name="msg_don_t_have_an_account">Don\'t have an account?</string>
+    <string name="msg_already_have_an_account">Already have an account? </string>
+    <string name="lbl_firstname">First name</string>
+    <string name="lbl_lastname">Last name</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_search">Search</string>
+    <string name="msg_email_already_used">Email already used, use different email.</string>
+    <string name="msg_database_exception">Database exception.</string>
+    <string name="msg_shared_preferences_exception">SharePreferences exception.</string>
+    <string name="msg_invalid_credentials">Invalid credentials.</string>
+    <string name="msg_login_success">Login success</string>
+    <string name="msg_registration_success">Registration success</string>
+    <string name="msg_first_name_required">First name required.</string>
+    <string name="msg_last_name_required">Last name required.</string>
+    <string name="msg_email_required">Email required.</string>
+    <string name="msg_invalid_email">Invalid email.</string>
+    <string name="msg_password_required">Password required.</string>
+    <string name="msg_password_must_be_6_characters_long">Password must be 6 characters long.</string>
+    <string name="msg_confirm_password_required">Confirm Password required.</string>
+    <string name="msg_password_must_be">Password must be 6 characters long.</string>
+    <string name="msg_confirm_password_should_be_same_as_password">Confirm password should be same as password.</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_close">close</string>
+    <string name="lbl_refresh">refresh</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_back">Back</string>
+    <string name="msg_login">User details are stored locally using a Room database. When you uninstall the app, its local data is also removed by the system. \n\nLogin is not compulsory to access the app.</string>
+    <string name="lbl_logout">Logout</string>
+    <string name="msg_logout">Are you sure you want to logout?</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_dismiss">Dismiss</string>
+    <string name="lbl_icon">icon</string>
+
+</resources>
