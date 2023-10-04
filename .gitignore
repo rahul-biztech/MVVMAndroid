@@ -31,7 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
-
 /local.properties
 /.idea/caches
 /.idea/libraries
