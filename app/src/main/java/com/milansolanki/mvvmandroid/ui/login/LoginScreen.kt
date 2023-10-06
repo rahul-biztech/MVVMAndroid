@@ -46,7 +46,7 @@ fun LoginScreen(viewModel: LoginViewModel, navController: NavHostController) {
 
     AppScaffold(navController = navController, viewModel = viewModel, topBar = {
         TopAppBar(
-            title = { /*TODO*/ }, navigationIcon = {
+            title = {  }, navigationIcon = {
                 AppIcon(
                     icon = Icons.Default.ArrowBack,
                     contentDescription = R.string.lbl_close,
